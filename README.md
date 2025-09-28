@@ -4,15 +4,15 @@
 (Tổng cộng **369.545 cặp** + lưu data file `.json`)
 
 <p align="center">
-  <img src="pic/Picture1.png" width="600"/>
+  <img src="pic/Picture1.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture2.png" width="600"/>
+  <img src="pic/Picture2.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture3.png" width="600"/>
+  <img src="pic/Picture3.png" width="750"/>
 </p>
 
 ---
@@ -23,15 +23,15 @@
 - **Mục đích:** Huấn luyện AI/chatbot trả lời câu hỏi về bệnh da hoặc phân tích mức độ quan tâm của người dùng.  
 
 <p align="center">
-  <img src="pic/Picture1.png" width="600"/>
+  <img src="pic/Picture1.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture2.png" width="600"/>
+  <img src="pic/Picture2.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture3.png" width="600"/>
+  <img src="pic/Picture3.png" width="750"/>
 </p>
 
 ---
@@ -42,19 +42,19 @@
 - **Mục đích:** Huấn luyện AI/chatbot trả lời câu hỏi về da liễu.  
 
 <p align="center">
-  <img src="pic/Picture4.png" width="600"/>
+  <img src="pic/Picture4.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture5.png" width="600"/>
+  <img src="pic/Picture5.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture6.png" width="600"/>
+  <img src="pic/Picture6.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture7.png" width="600"/>
+  <img src="pic/Picture7.png" width="750"/>
 </p>
 
 ---
@@ -65,19 +65,19 @@
 - **Mục đích:** Huấn luyện AI/chatbot trả lời câu hỏi về da liễu.  
 
 <p align="center">
-  <img src="pic/Picture8.png" width="600"/>
+  <img src="pic/Picture8.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture9.png" width="600"/>
+  <img src="pic/Picture9.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture10.png" width="600"/>
+  <img src="pic/Picture10.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture11.png" width="600"/>
+  <img src="pic/Picture11.png" width="750"/>
 </p>
 
 ---
@@ -88,19 +88,19 @@
 - **Mục đích:** Huấn luyện chatbot y tế/AI cho các tình huống bệnh da.  
 
 <p align="center">
-  <img src="pic/Picture12.png" width="600"/>
+  <img src="pic/Picture12.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture13.png" width="600"/>
+  <img src="pic/Picture13.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture14.png" width="600"/>
+  <img src="pic/Picture14.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture15.png" width="600"/>
+  <img src="pic/Picture15.png" width="750"/>
 </p>
 
 ---
@@ -111,19 +111,19 @@
 - **Lưu ý:** Chủ yếu tư vấn tổng quát (chăm sóc, phòng ngừa, dấu hiệu), không thay thế chẩn đoán.  
 
 <p align="center">
-  <img src="pic/Picture16.png" width="600"/>
+  <img src="pic/Picture16.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture17.png" width="600"/>
+  <img src="pic/Picture17.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture18.png" width="600"/>
+  <img src="pic/Picture18.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture19.png" width="600"/>
+  <img src="pic/Picture19.png" width="750"/>
 </p>
 
 ---
@@ -134,19 +134,19 @@
 - **Mục đích:** Dataset y tế QA chuẩn, có chứa nhiều câu hỏi về bệnh da.  
 
 <p align="center">
-  <img src="pic/Picture20.png" width="600"/>
+  <img src="pic/Picture20.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture21.png" width="600"/>
+  <img src="pic/Picture21.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture22.png" width="600"/>
+  <img src="pic/Picture22.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture23.png" width="600"/>
+  <img src="pic/Picture23.png" width="750"/>
 </p>
 
 ---
@@ -164,31 +164,31 @@
 - **Mục đích:** Làm giàu input → chatbot hiểu tình huống tốt hơn.  
 
 <p align="center">
-  <img src="pic/Picture24.png" width="600"/>
+  <img src="pic/Picture24.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture25.png" width="600"/>
+  <img src="pic/Picture25.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture26.png" width="600"/>
+  <img src="pic/Picture26.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture27.png" width="600"/>
+  <img src="pic/Picture27.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture28.png" width="600"/>
+  <img src="pic/Picture28.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture29.png" width="600"/>
+  <img src="pic/Picture29.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture30.png" width="600"/>
+  <img src="pic/Picture30.png" width="750"/>
 </p>
 
 ---
@@ -199,19 +199,19 @@
 - **Mục đích:** Trả lời câu hỏi liên quan đến bệnh da.  
 
 <p align="center">
-  <img src="pic/Picture31.png" width="600"/>
+  <img src="pic/Picture31.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture32.png" width="600"/>
+  <img src="pic/Picture32.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture33.png" width="600"/>
+  <img src="pic/Picture33.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="pic/Picture34.png" width="600"/>
+  <img src="pic/Picture34.png" width="750"/>
 </p>
 
 ---
